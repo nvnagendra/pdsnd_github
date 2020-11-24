@@ -22,13 +22,20 @@ following were the input files were used for the project:
 following is the code file that needs to be executed: 
 bikeshare.py
 
-### Method to execute the code
-Clone the project
-Prerequisite
-    You must have installed python and libraries like numpy and pandas.
-Run the project
-    Open the terminal
-    Run python bikeshare.py
+### The Datasets:
+Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+
+    Start Time (e.g., 2017-01-01 00:07:57)
+    End Time (e.g., 2017-01-01 00:20:53)
+    Trip Duration (in seconds - e.g., 776)
+    Start Station (e.g., Broadway & Barry Ave)
+    End Station (e.g., Sedgwick St & North Ave)
+    User Type (Subscriber or Customer)
+
+The Chicago and New_York_City files also have the following two columns:
+
+    Gender
+    Birth Year
 
 ### Expected Output
 Following is the output upon executing the code
@@ -48,6 +55,15 @@ User info
     counts of each user type
     counts of each gender (only available for NYC and Chicago)
     earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
+
+### Method to execute the code
+Clone the project
+Prerequisite
+    You must have installed python and libraries like numpy and pandas.
+Run the project
+    Open the terminal
+    Run python bikeshare.py
 
 ### Credits
 https://www.python-course.eu/python3_input.php
