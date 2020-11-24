@@ -7,6 +7,13 @@ US bikeshare exploration project
 ### Description
 in this project, we are evaluating the descriptive statistics of the bikeshare data across different cities and user groups in US
 
+### Pre-requisite system setup
+I used the following IDE, packages and software to execute this project:
+    Python 3, NumPy, and pandas installed using Anaconda
+    Visual Studio Code
+    Terminal on Mac
+It is advisable to have something similar or  the exact setup on your machine to execute this package. 
+
 ### Files used
 following were the input files were used for the project:
 1. chicago.csv
