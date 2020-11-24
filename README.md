@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+project created on 21 Nov 2020.
 
 ### Project Title
-Replace the Project Title
+US bikeshare exploration project
 
 ### Description
-Describe what your project is about and what it does
+in this project, we are evaluating the descriptive statistics of the bikeshare data across different cities and user groups in US
 
 ### Files used
 Include the files used
