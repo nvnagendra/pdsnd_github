@@ -12,15 +12,15 @@ In this project, we are evaluating the descriptive statistics of the bikeshare d
     * Python 3, NumPy, and pandas installed using Anaconda
     * Visual Studio Code
     * Terminal on Mac
-*It is advisable to have something similar or  the exact setup on your machine to execute this package. 
+* It is advisable to have something similar or  the exact setup on your machine to execute this package. 
 
 ### Files used
-following were the input files were used for the project:
-1. chicago.csv
-2. washington.csv
-3. new_york_city.csv
-Following is the code file that needs to be executed: 
-1. bikeshare.py
+1. following were the input files were used for the project:
+    1. chicago.csv
+    2. washington.csv
+    3. new_york_city.csv
+1. Following is the code file that needs to be executed: 
+    1. bikeshare.py
 
 ### The Datasets:
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
@@ -66,7 +66,7 @@ The Chicago and New_York_City files also have the following two columns:
     * Run python bikeshare.py
 
 ### Credits
-* https://www.python-course.eu/python3_input.php - automatic!
+* https://www.python-course.eu/python3_input.php
 * https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response - automatic!
-https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
-https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
+* https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
+* https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
