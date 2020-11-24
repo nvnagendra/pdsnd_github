@@ -15,11 +15,13 @@ following were the input files were used for the project:
 following is the code file that needs to be executed: 
 bikeshare.py
 
-### Credits
-https://www.python-course.eu/python3_input.php
-https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
-https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
-https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
+### Method to execute the code
+Clone the project
+Prerequisite
+    You must have installed python and libraries like numpy and pandas.
+Run the project
+    Open the terminal
+    Run python bikeshare.py
 
 ### Expected Output
 Following is the output upon executing the code
@@ -39,3 +41,9 @@ User info
     counts of each user type
     counts of each gender (only available for NYC and Chicago)
     earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
+### Credits
+https://www.python-course.eu/python3_input.php
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
+https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
+https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
